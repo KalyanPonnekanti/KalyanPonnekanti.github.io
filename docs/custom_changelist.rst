@@ -11,7 +11,8 @@ as a repository running on a Windows platform.
 
 Research from the internet suggested that we would have to use P4
 triggers. However, our IT team had restricted the usage of triggers on
-our perforce server. So, we ended up writing a client-side python script
+our perforce server. So, my colleague, Krishna (https://krishkasula.github.io/
+), ended up writing a client-side python script
 that allowed us to customize the changelist description for Perforce.
 
 Script:
