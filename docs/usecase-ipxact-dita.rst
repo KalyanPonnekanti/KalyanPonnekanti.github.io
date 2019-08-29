@@ -15,7 +15,7 @@ understand their justification for this change. The outcome of this call
 is the following use case.
 
 Use Case: Using IPXACT to Generate Documentation
-================================================
+------------------------------------------------
 
 Actor: Integration Engineer/Automation
 
@@ -37,7 +37,7 @@ Basic Flow
 4. The documentation publishing flow generates PDFs/HTML from DITA.
 
 What is IPXACT?
-===============
+---------------
 
 “\ **IP-XACT** is
 an \ `XML <https://en.wikipedia.org/wiki/XML>`__ format that defines and
@@ -54,7 +54,7 @@ tools.”
 https://en.wikipedia.org/wiki/IP-XACT
 
 What is DITA?
-=============
+-------------
 
 “The \ **Darwin Information Typing Architecture** or **Document
 Information Typing Architecture** (**DITA**) is
@@ -69,7 +69,7 @@ Technical Committee.”
 https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture
 
 How did We Resolve the Customer Request
-=======================================
+---------------------------------------
 
 As the customer requested IPXACT and DITA. We managed to convince the
 customer to generate the register descriptions from the IPXACT than
