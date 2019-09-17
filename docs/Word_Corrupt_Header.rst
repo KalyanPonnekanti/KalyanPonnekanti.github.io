@@ -14,7 +14,7 @@ When you convert a Word document to PDF, Heading 1 displays unexpected character
 Yesterday, we had a product release. We received some last minute changes to the Word source. After processing the new content, we published the Word document to PDF. Then, things started going wrong.
 The chapter headings in the PDF had corrupt characters. They looked like the following:
 
-.. figure:: ./corrupt_characters.png
+.. figure:: ./corrupt_characters.PNG
       :alt: Corrupt characters in Headings
 
       Corrupt or Unexpected Characters in Headings in PDF
