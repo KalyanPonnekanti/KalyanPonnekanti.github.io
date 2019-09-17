@@ -15,3 +15,4 @@ Welcome to Kalyan's documentation!
    custom_changelist
    usecase-ipxact-dita.rst
    Word_Corrupt_Header.rst
+   Cross-references.rst
