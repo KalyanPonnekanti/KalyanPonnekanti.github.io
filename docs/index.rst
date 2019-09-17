@@ -13,4 +13,6 @@ Welcome to Kalyan's documentation!
    
    2019-04-19-framemaker-to-dita
    custom_changelist
-   usecase-ipxact-dita.rst
+   usecase-ipxact-dita
+   Word_Corrupt_Header
+   Cross-references
